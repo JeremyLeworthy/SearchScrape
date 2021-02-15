@@ -1,0 +1,6 @@
+module Pods_SearchScrape {
+  umbrella header "Pods-SearchScrape-umbrella.h"
+
+  export *
+  module * { export * }
+}
